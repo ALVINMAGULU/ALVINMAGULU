@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Alvin Magulu
-- 👀 I’m interested in Electronics and mobile app development
-- 🌱 I’m currently learning Mobile app development
+- 👀 I’m interested in Electronics and firmware design
+- 🌱 I do machine learning to running models on micro controllers
 - 💞️ I’m looking to collaborate on the above
-- 📫 How to reach me alvinmagulu5@gmail.com
+- 📫 How to reach me alvinm@almag.me
 
 <!---
 ALVINMAGULU/ALVINMAGULU is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
